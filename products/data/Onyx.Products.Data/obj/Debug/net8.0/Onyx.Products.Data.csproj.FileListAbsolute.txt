@@ -1,0 +1,17 @@
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Data.deps.json
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Data.dll
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Data.pdb
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Domain.dll
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Domain.pdb
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.csproj.AssemblyReference.cache
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.AssemblyInfoInputs.cache
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.AssemblyInfo.cs
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.csproj.CoreCompileInputs.cache
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.csproj.CopyComplete
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.dll
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\refint\Onyx.Products.Data.dll
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.pdb
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\ref\Onyx.Products.Data.dll
+D:\src\onyx\products\data\Onyx.Products.Data\bin\Debug\net8.0\Onyx.Products.Data.runtimeconfig.json
+D:\src\onyx\products\data\Onyx.Products.Data\obj\Debug\net8.0\Onyx.Products.Data.genruntimeconfig.cache

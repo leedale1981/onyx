@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9e0d56e3_002D28a5_002D416e_002Db46c_002D7c336424ca4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProductExtensionTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B572C522-E496-40B8-A068-A90208CAC104::net8.0::Onyx.Products.Api.UnitTests.ProductExtensionTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8AAD5A9F-2E9A-4A9F-8598-8A00025AD6B9::net8.0::Onyx.Products.Data.UnitTests.FactoryTests.ProductQueryFactory_CreateInsertCommand_Returns_ProductInsertCommand&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::8AAD5A9F-2E9A-4A9F-8598-8A00025AD6B9::net8.0::Onyx.Products.Data.UnitTests.FactoryTests.ProductQueryFactory_CreateQuery_Returns_ProductQuery&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3648F1D0-D705-4657-9186-52023A4E62AF::net8.0::Onyx.Products.Data.IntegrationTests.ProductQueryTests.Query_Returns_Valid_Product&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::3648F1D0-D705-4657-9186-52023A4E62AF::net8.0::Onyx.Products.Data.IntegrationTests.ProductCommandTests.Command_Inserts_Valid_Product&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

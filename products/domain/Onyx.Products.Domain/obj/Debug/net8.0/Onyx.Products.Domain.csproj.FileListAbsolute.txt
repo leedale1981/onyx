@@ -1,0 +1,11 @@
+D:\src\onyx\products\domain\Onyx.Products.Domain\bin\Debug\net8.0\Onyx.Products.Domain.deps.json
+D:\src\onyx\products\domain\Onyx.Products.Domain\bin\Debug\net8.0\Onyx.Products.Domain.dll
+D:\src\onyx\products\domain\Onyx.Products.Domain\bin\Debug\net8.0\Onyx.Products.Domain.pdb
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.AssemblyInfoInputs.cache
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.AssemblyInfo.cs
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.csproj.CoreCompileInputs.cache
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.dll
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\refint\Onyx.Products.Domain.dll
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\Onyx.Products.Domain.pdb
+D:\src\onyx\products\domain\Onyx.Products.Domain\obj\Debug\net8.0\ref\Onyx.Products.Domain.dll
